@@ -12,7 +12,7 @@ A beginner python project that calculates a student's total mark, percentage, gr
 ## How to run
 1. Open project in VS code.
 2. Run 'main.py'.
-3. Enter student's name ans marks.
+3. Enter student's name and marks.
 4. View the result in the terminal
 ## Future Improvements
 - Add more subjects
