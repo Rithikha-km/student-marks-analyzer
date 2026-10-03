@@ -18,4 +18,4 @@ A beginner python project that calculates a student's total mark, percentage, gr
 - Add more subjects
 - Add subject-wise grades
 - Store multiple students
-- Add a grafical user interface
+- Add a graphical user interface
